@@ -1,0 +1,7 @@
+C:\Users\subbotinaarina\source\repos\knapsack\knapsack\bin\Debug\knapsack.exe.config
+C:\Users\subbotinaarina\source\repos\knapsack\knapsack\bin\Debug\knapsack.exe
+C:\Users\subbotinaarina\source\repos\knapsack\knapsack\bin\Debug\knapsack.pdb
+C:\Users\subbotinaarina\source\repos\knapsack\knapsack\obj\Debug\knapsack.csprojAssemblyReference.cache
+C:\Users\subbotinaarina\source\repos\knapsack\knapsack\obj\Debug\knapsack.csproj.CoreCompileInputs.cache
+C:\Users\subbotinaarina\source\repos\knapsack\knapsack\obj\Debug\knapsack.exe
+C:\Users\subbotinaarina\source\repos\knapsack\knapsack\obj\Debug\knapsack.pdb
